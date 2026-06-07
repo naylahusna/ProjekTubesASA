@@ -24,13 +24,7 @@ Proyek ini membandingkan 5 algoritma pencarian berdasarkan Total Jarak, Jumlah E
 
 ### Cara Menjalankan Program
 
-Cara termudah untuk menjalankan program ini adalah melalui **Google Colab** agar tidak perlu menginstal *library* secara manual.
+Dapat menggunakan VSCode atau Terminal lainnya, dan juga melalui Google Colab dengan tautan dibawah ini:
+**[https://colab.research.google.com/drive/1NUZrYeYl5PFWUVsi5dDyZjMRdZbi4Gcf]**
 
-1. Buka tautan Google Colab berikut: **[https://colab.research.google.com/drive/1NUZrYeYl5PFWUVsi5dDyZjMRdZbi4Gcf]**
-2. Klik tombol **"Run All"** (atau tekan `Ctrl + F9`) untuk menjalankan seluruh sel kode dari atas sampai bawah.
-3. Gulir ke bagian bawah (*Cell Main*) untuk melihat teks *tracing* dan visualisasi grafiknya.
-
-**Menjalankan di Komputer Lokal (VS Code / Jupyter Notebook):**
-Pastikan kamu sudah menginstal Python dan *library* yang dibutuhkan:
-```bash
-pip install matplotlib numpy seaborn
+Jika menggunakan terminal, bisa mnegikuti perintah dan pilihan yang diberikan oleh program.
