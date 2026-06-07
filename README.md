@@ -27,4 +27,4 @@ Proyek ini membandingkan 5 algoritma pencarian berdasarkan Total Jarak, Jumlah E
 Dapat menggunakan VSCode atau Terminal lainnya, dan juga melalui Google Colab dengan tautan dibawah ini:
 **[https://colab.research.google.com/drive/1NUZrYeYl5PFWUVsi5dDyZjMRdZbi4Gcf]**
 
-Jika menggunakan terminal, bisa mnegikuti perintah dan pilihan yang diberikan oleh program.
+Jika menggunakan terminal, bisa mengikuti perintah dan pilihan yang diberikan oleh program.
